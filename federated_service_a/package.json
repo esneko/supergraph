@@ -1,0 +1,21 @@
+{
+  "name": "federated_service_a",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@apollo/federation": "^0.34.0",
+    "apollo-server": "^3.6.2",
+    "apollo-server-express": "^3.6.2",
+    "express": "^4.17.2",
+    "graphql": "^15.8.0",
+    "request": "^2.88.2",
+    "request-promise-native": "^1.0.9"
+  }
+}

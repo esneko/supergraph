@@ -1,0 +1,19 @@
+{
+  "name": "gateway_service",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@apollo/gateway": "^0.47.0",
+    "apollo-server-core": "^3.6.2",
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2",
+    "graphql": "^15.8.0"
+  }
+}

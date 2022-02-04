@@ -1,0 +1,10 @@
+{
+  "name": "supergraph",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^2.5.1"
+  }
+}
