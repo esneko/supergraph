@@ -1,1 +1,10 @@
 node_modules
+dist
+dist-ssr
+.DS_Store
+.env
+.cache
+.next
+.turbo
+*.local
+*.log
